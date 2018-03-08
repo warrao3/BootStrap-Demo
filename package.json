@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap_website",
+  "version": "1.0.0",
+  "description": "This is from udemy the dreamweaver bootstrap code, redone using node and hand coded on sublime..",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Rameshwar Rao",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
