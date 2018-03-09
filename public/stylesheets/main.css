@@ -64,6 +64,12 @@ body
 	padding-bottom: 10px;
 }
 
+.height_set
+{
+	min-height: 235px;
+	width: 100%;
+}
+
 
 
 .band-services
